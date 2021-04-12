@@ -1,3 +1,4 @@
+#gycu,vgh.ijhb/ojknp/nkl/nklpnjko.nji
 
 '''
 Problem 7:
@@ -10,18 +11,18 @@ are eligible to ride on.
 # Variables
 
 # Attractions for those 9 and under
-nine_and_under = ["Dragon Flight Coaster", "Freddo’s Aeroplane Ride","Car Wash Convoy",
-"Bouncy Castle – children must be 100cm or under","Jumpin’ Star – children must be at least 90cm"]
+nine_and_under = ["Dragon Flight Coaster", "Freddoâ€™s Aeroplane Ride","Car Wash Convoy",
+"Bouncy Castle â€“ children must be 100cm or under","Jumpinâ€™ Star â€“ children must be at least 90cm"]
 
 # Attractions for those 80cm and up
-user_80cm_and_up = ["Goldrush – a responsible person must accompany those under 100cm",
-"Log Flume – a responsible person must accompany those under 100cm",
-"Pirate Ship – a responsible person must accompany those under 100cm",
-"Dodgems – as passenger only, a responsible person must accompany those under 120cm",
-"Family Karts – as passenger only, a responsible person must accompany those under 150cm"]
+user_80cm_and_up = ["Goldrush â€“ a responsible person must accompany those under 100cm",
+"Log Flume â€“ a responsible person must accompany those under 100cm",
+"Pirate Ship â€“ a responsible person must accompany those under 100cm",
+"Dodgems â€“ as passenger only, a responsible person must accompany those under 120cm",
+"Family Karts â€“ as passenger only, a responsible person must accompany those under 150cm"]
 
 # Attractions for those 120cm and up
-user_120cm_and_up = ["FearFall – maximum height 195cm","Corkscrew Coaster",
+user_120cm_and_up = ["FearFall â€“ maximum height 195cm","Corkscrew Coaster",
 "Bumper Boats","Dodgems","Invader"]
 
 # Attractions for those 150cm and up
