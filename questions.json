@@ -1,0 +1,17 @@
+{
+    "Question 1": {
+        "answers": ["Option 1", "Option 2", "Option 3"],
+        "answer": "Option 1",
+        "fact": "Did you know that Option 1 was assigned as an example answer for Question 1?"
+    },
+    "Question 2": {
+        "answers": ["Option 1", "Option 2", "Option 3", "Option 4", "Option 5"],
+        "answer": "Option 3",
+        "fact": "Did you know that Option 3 was assigned as an example answer for Question 2?"
+    },
+    "Question 3": {
+        "answers": ["Option 1", "Option 2", "Option 3", "Option 4", "Option 5"],
+        "answer": "Option 2",
+        "fact": "Did you know that Option 2 was assigned as an example answer for Question 3?"
+    }
+}
